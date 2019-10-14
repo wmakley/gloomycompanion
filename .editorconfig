@@ -7,8 +7,5 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 end_of_line = lf
 
-[{*.js,*.html}]
-end_of_line = crlf
-
 [package.json]
 indent_size = 2
